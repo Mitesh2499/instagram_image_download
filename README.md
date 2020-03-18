@@ -20,13 +20,13 @@ Download Images (Good Quality) From Instagram
 ## Step 2 : Install Chrome driver
 
 ### Check Chrome Version : chrome://settings/help</h4>
+![chrome](https://github.com/Mitesh2499/instagram_image_download/blob/master/img/chrome.PNG)
 
-<img src="img/chrome.png" style="width: 100%; height: auto">
 Version 80.0.3987.132 (Official Build) (64-bit)
 
 Download suitable chrome driver from this site <a href="https://sites.google.com/a/chromium.org/chromedriver/downloads">https://sites.google.com/a/chromium.org/chromedriver/downloads</a>
+![chrome](https://github.com/Mitesh2499/instagram_image_download/blob/master/img/driver.PNG)
 
-<img src="img/driver.png" style="width: auto; height: 200px">
 <ol>
 <li>Unzip the downloaded file</li>
 <li>Place in same folder where You keep instagram.py file</li>
@@ -73,5 +73,5 @@ webdriver.get('https://www.instagram.com/virat.kohli/')
 
 ### 6. Result will be in insta folder or you can change folder name too
 
-<img src="img/insta.png" style="width: auto; height: 200px">
-	</div>
+![chrome](https://github.com/Mitesh2499/instagram_image_download/blob/master/img/insta.PNG)
+	
