@@ -10,11 +10,11 @@ Download Images (good Quality) From Instagram
 		<li>Step 4 : Run Instagram.py </li>
 	</ul>
 	
-	<div style="background: #efecec; padding:10px 20px;margin: 20px 15px;">
+
 		<h3>Step 1: Install Python (3.7)</h3>
 		<p>Download any Version (3.6 +)</p>
 		<a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a>
-	</div>
+
 	<div style="background: #efecec; padding:10px 20px;margin: 20px 15px;">
 		<h3>Step 2 : Install Chrome driver</h3>
 		<h4>Check Chrome Version : chrome://settings/help</h4>
